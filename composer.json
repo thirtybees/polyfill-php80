@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1"
+        "php": ">=5.6"
     },
     "autoload": {
         "psr-4": { "Symfony\\Polyfill\\Php80\\": "" },
